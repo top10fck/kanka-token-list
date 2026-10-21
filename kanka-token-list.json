@@ -1,6 +1,6 @@
 
 {
-  "name": "Usdt Token List",
+  "name": "Kanka Token List",
   "timestamp": "2026-10-21T00:00:00Z",
   "version": {
     "major": 1,
@@ -14,7 +14,7 @@
       "name": "Kanka Dolari - Saka Tokeni",
       "symbol": "KUSD",
       "decimals": 6,
-      "logoURI": https://raw.githubusercontent.com/top10fck/kanka-token-list/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/top10fck/kanka-token-list/main/logo.png"
     }
   ]
 }
