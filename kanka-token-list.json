@@ -1,0 +1,20 @@
+
+{
+  "name": "Usdt Token List",
+  "timestamp": "2026-10-21T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 80002,
+      "address": "0x7601E02cdc95def8e3273c53a9477559b9a2e8a8",
+      "name": "Kanka Dolari - Saka Tokeni",
+      "symbol": "KUSD",
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/ILYw8Ru.png"
+    }
+  ]
+}
